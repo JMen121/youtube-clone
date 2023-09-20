@@ -5,13 +5,12 @@
     top: 80px;
     width: 100px;
     align-items: center;
-    background-color:lightgrey
+    background-color:gainsboro
  }
  
 
 .sidebar{
     height: 30px;
-    background-color: blueviolet;
     display: flex;
     justify-content: center;
     align-items: center;
