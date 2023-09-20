@@ -1,0 +1,19 @@
+.sidebar-nav{
+    background-color: green;
+    position: fixed;
+    left:0px;
+    bottom: 0px;
+    top: 55px;
+    width: 90px;
+ }
+
+ .home-sidebar{
+    position: fixed;
+    top:70px ;
+    left: 23px;
+ }
+
+.explore-sidebar{
+    position: fixed;
+
+}
