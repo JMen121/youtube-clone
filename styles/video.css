@@ -1,6 +1,6 @@
 .video-title{
-    margin-top: 0px;
-    font-size: 15px;
+    margin-top: 10px;
+    font-size: 16px;
     font-weight: 500;
     line-height: 15px;
     margin-bottom: 12px;
@@ -17,6 +17,7 @@
 .profile {
     width: 40px;
     border-radius: 50px;
+    margin-top: 10px;
 }
 
 .thumbnail-row{
@@ -39,7 +40,7 @@
 .video-grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 2px;
+    column-gap: 0px;
     row-gap: 20px;
 }
 
