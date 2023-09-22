@@ -56,29 +56,46 @@ margin-right: 12px;
 color: rgb(192, 192, 192);
 padding-top: 5px;
 margin-left: -2px;
-position: relative;
 }
 
-.search-button .tooltip{
-position: absolute;
-background-color: gray;
-color: white;
-padding-top: px;
-padding-bottom: 4px;
-font-size: 12px;
-bottom: -20px;
-opacity: 0;
-transition:opacity 0.15s;
-pointer-events: none;
-padding-left: 15px;
-padding-right: 15px;
+.search-button,
+.microphone-button,
+.upload-icon-container,
+.youtube-app-icon-container,
+.notes-icon-container{
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;}
+
+
+.search-button .tooltip,
+.microphone-button .tooltip,
+.upload-icon-container .tooltip,
+.youtube-app-icon-container .tooltip,
+.notes-icon-container .tooltip{
+  position: absolute;
+  background-color: gray;
+  color: white;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 2px;
+  font-size: 12px;
+  bottom: -30px;
+  opacity: 0;
+  transition: 0.15s;
+  pointer-events: none;
+  white-space: nowrap;
 }
 
-.search-button:hover .tooltip{
-opacity: 1;
-
-}
-
+.search-button:hover .tooltip,
+.microphone-button:hover .tooltip,
+.upload-icon-container:hover .tooltip,
+.youtube-app-icon-container:hover .tooltip,
+.notes-icon-container:hover .tooltip{
+ opacity: 1;}
 
 .search-bar{
 flex: 1;
