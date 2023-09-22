@@ -6,12 +6,34 @@
     margin-bottom: 12px;
     font-weight: bold;
 }
-.thumbnail{
-   width:550px;
 
-}
+a:link{ 
+    text-decoration: none;
+    color: black;
+ }
+
+
+a:visited{ 
+    text-decoration: none;
+    color: black; }
+
+
+a:hover{ 
+    text-decoration: none;
+    color: black;
+   }
+
+
+a:active{ 
+    text-decoration: none;
+    color: black; }
+
+.thumbnail{
+   width:550px;}
+
 .video-info{
- max-width: 550px;}
+ max-width: 550px;
+}
     
 
 .profile {
