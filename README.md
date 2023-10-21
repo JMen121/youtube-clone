@@ -4,7 +4,7 @@ This is my first project where I decided to create a replica of youtube.
 
 ![Picture of my Youtube Clone](image.png)
 
-#Creation
+**Creation
 I used HTML and CSS when creating this youtube clone.
 
 **What this youtube clone entails?**
