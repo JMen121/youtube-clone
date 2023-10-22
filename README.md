@@ -5,7 +5,7 @@ After learning HTML and CSS, I wanted to put my skills into practice and create 
 
 
 # Lessons Learned
-Throughout the development of this YouTube clone, I acquired proficiency in employing different techniques for creating boxes to ensure optimal alignment of video previews and titles. I leveraged tools such as Flexbox and the Grid method to achieve precise layout structures.
+Throughout the development of this YouTube clone, I acquired proficiency in employing different techniques for creating boxes to ensure optimal alignment of video previews and titles. I leveraged tools such as Flexbox and the Grid method to achieve precise layout structures.I also learned Tooltips( which can be seen for every icon on header except the Profile),
 
 Initially, I encountered challenges in managing the sheer volume of elements to create and understanding the nuances of box alignment, be it vertical or horizontal. During this learning process, W3Schools played a pivotal role in providing invaluable assistance, contributing significantly to overcoming the initial hurdles.
 
@@ -29,25 +29,3 @@ To elevate the YouTube clone's functionality, the next phase involves incorporat
 
 # Contribution
 Feedback and contributions are welcome and highly appreciated! Thank you for taking the time to explore and engage with this project.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Creation
-I used HTML and CSS when creating this youtube clone.
-
-**What this youtube clone entails?**
-I have used some CSS techniques such as Flex Box, Tooltips( which can be seen for every icon on header except the Profile),
