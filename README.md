@@ -3,6 +3,7 @@ After learning HTML and CSS, I wanted to put my skills into practice and create 
 
 ![Picture of my Youtube Clone](image.png)
 
+This is the live deployment: https://jmen121.github.io/youtube-clone1/ 
 
 # Lessons Learned
 Throughout the development of this YouTube clone, I acquired proficiency in employing different techniques for creating boxes to ensure optimal alignment of video previews and titles. I leveraged tools such as Flexbox and the Grid method to achieve precise layout structures.I also learned Tooltips( which can be seen for every icon on header except the Profile),
